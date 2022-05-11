@@ -1,6 +1,7 @@
-# Machine_Learning
+### Machine_Learning
 
 This repo is for all my machine codes and models
 
-author : Dipanjan Roy(EY)
-wife : Ishita Datta(Accenture)
+##Author : Dipanjan Roy(EY)
+
+##Wife : Ishita Datta(Accenture)
